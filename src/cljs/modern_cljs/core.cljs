@@ -1,3 +1,5 @@
 (ns modern-cljs.core)
+
 (enable-console-print!)
-(println "Hello, World!")
+
+(println "I sad \"Hello, World!\" one more time." )
